@@ -1,6 +1,8 @@
 # HealthInformaticsUNCC
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.1.
+### User Signup/Login
+<img width="1280" alt="signup" src="https://user-images.githubusercontent.com/10370182/33511997-c514207e-d6f4-11e7-8a60-c89e1a72d5a3.png">
 
 ## Development server
 
